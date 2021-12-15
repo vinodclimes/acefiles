@@ -1,0 +1,42 @@
+BEGIN:VCALENDAR
+PRODID:-//Google Inc//Google Calendar 70.9054//EN
+VERSION:2.0
+CALSCALE:GREGORIAN
+METHOD:REQUEST
+BEGIN:VEVENT
+DTSTART:20211221T063000Z
+DTEND:20211221T070000Z
+DTSTAMP:20211215T062726Z
+ORGANIZER;CN=rtotanee@google.com:mailto:rtotanee@google.com
+UID:3hsk50n50spakmihoujdel9qns@google.com
+ATTENDEE;CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT;PARTSTAT=NEEDS-ACTION;RSVP=
+ TRUE;CN=vinod_c@aed-th.com;X-NUM-GUESTS=0:mailto:vinod_c@aed-th.com
+ATTENDEE;CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT;PARTSTAT=NEEDS-ACTION;RSVP=
+ TRUE;CN=nguyennolan@google.com;X-NUM-GUESTS=0:mailto:nguyennolan@google.com
+ATTENDEE;CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT;PARTSTAT=ACCEPTED;RSVP=TRUE
+ ;CN=rtotanee@google.com;X-NUM-GUESTS=0:mailto:rtotanee@google.com
+ATTENDEE;CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT;PARTSTAT=NEEDS-ACTION;RSVP=
+ TRUE;CN=andytra@google.com;X-NUM-GUESTS=0:mailto:andytra@google.com
+ATTENDEE;CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT;PARTSTAT=NEEDS-ACTION;RSVP=
+ TRUE;CN=vinod_c@saaa.co.th;X-NUM-GUESTS=0:mailto:vinod_c@saaa.co.th
+X-GOOGLE-CONFERENCE:https://meet.google.com/jxm-pxgi-wbw
+X-MICROSOFT-CDO-OWNERAPPTID:-109618402
+CREATED:20211215T062725Z
+DESCRIPTION:-::~:~::~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~
+ :~:~:~:~:~:~:~:~::~:~::-\nDo not edit this section of the description.\n\nT
+ his event has a video call.\nJoin: https://meet.google.com/jxm-pxgi-wbw\n(S
+ G) +65 3129 0234 PIN: 7794452313808#\nView more phone numbers: https://tel.
+ meet/jxm-pxgi-wbw?pin=7794452313808&hs=7\n\nView your event at https://cale
+ ndar.google.com/calendar/event?action=VIEW&eid=M2hzazUwbjUwc3Bha21paG91amRl
+ bDlxbnMgdmlub2RfY0BzYWFhLmNvLnRo&tok=MTkjcnRvdGFuZWVAZ29vZ2xlLmNvbTM1NzJlZD
+ c2OGMwYTJmMTBlOTI4YTIzNjhlMTZiMGFjMGRjYTM2MjA&ctz=Asia%2FSingapore&hl=en&es
+ =1.\n-::~:~::~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:
+ ~:~:~:~:~::~:~::-
+LAST-MODIFIED:20211215T062725Z
+LOCATION:
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:ace-energy.co.th // Google Cloud
+TRANSP:OPAQUE
+END:VEVENT
+END:VCALENDAR
